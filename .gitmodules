@@ -1,0 +1,3 @@
+[submodule "realtime-elo-ranker"]
+	path = realtime-elo-ranker
+	url = https://github.com/URL_DU_DEPOT/realtime-elo-ranker
